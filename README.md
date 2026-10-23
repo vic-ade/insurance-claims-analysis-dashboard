@@ -38,8 +38,8 @@ This project developed my practical skills in data preparation, DAX measure crea
 
 ## Project Files
 
-- `Insurance_Claims_Analysis.pbix` — Interactive Power BI dashboard.
-- `dashboard-screenshot.png` — Screenshot preview of the completed report.
+- `Insurance claims analysis.pbix` — Interactive Power BI dashboard.
+- `Power BI Dashboard.png` — Screenshot preview of the completed report.
 ## Key Findings
 
 Analysis of 58,592 insurance policies and 3,748 claims revealed several patterns:
